@@ -1,0 +1,25 @@
+*{
+margin:0;
+padding:0;
+}
+div#wrapper{
+margin:10px auto;
+width:1000px;
+}
+div.box{
+padding:5px 0px 0px 5px;
+width:295px;
+min-height:295px;
+border:2px solid white;
+}
+div#source{
+float:left;
+background-color:#069;
+}
+div#dest{
+float:right;
+background-color:#066;
+}
+img.drag{
+cursor:pointer;
+}
